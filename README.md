@@ -25,7 +25,31 @@ Information is available in different .csv tables and with thjis information we 
 ![Ment](/Images/Mentorship%20Program.png))
 
 ### Summary:
---
+
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+As told 72,459 employees will be leigible to retire in 7 diferent tipes of Roles or titles.
+
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+Yes, maybe with the expeption of Managers where we only have two.
+
+Regarding aditional queries, we bring up two:
+
+To understand information of retrees by department and an aditional one to know who are them:
+
+1.
+
+![Ment](/Images/Mentorship%20Program.png))
+
+2.
+
+![Ment](/Images/Mentorship%20Program.png))
+
+
+
+
+
 
 
 
