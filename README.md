@@ -40,11 +40,11 @@ To understand information of retrees by department and an aditional one to know 
 
 1.
 
-![Pos Dep](/[/Images/position_per_department.png)))
+![Pos Dep](/[/Images/position_per_department.png)
 
 2.
 
-![Ret by Dep](/Images/retirees_per%20department.png)))
+![Ret by Dep](/Images/retirees_per%20department.png)
 
 
 
