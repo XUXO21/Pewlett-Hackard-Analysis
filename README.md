@@ -16,7 +16,7 @@ Information is available in different .csv tables and with thjis information we 
 *72,458 employees are still working in PH and elegible to retire
 *We have 7 kinds of titles 
 
-![Kinds](/US_TSUBCAT.png)
+![Ret](/Images/retiring%20titles.png))
 
 *For this reason Mentoring Program has to be implemented, in order to full fill avalibale positions left by retirees
 
