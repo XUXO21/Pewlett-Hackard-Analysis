@@ -1,2 +1,29 @@
 # Pewlett-Hackard-Analysis
 Pewlett-Hackard-Analysis
+
+## Overview of the analysis
+--
+Pewlett Hckard is a large company with thousands of employees. This company has been on the market for many years and now baby boomers are beginign to retire at a fast pace. For this reason they have to look ahead and undestand the number of employees that will retire to have a clear view for how many hires or reduction of position have to be made. 
+
+Bobby is an HR Analysts, and the task we are helping him to do is to make employee research and answer: who is retiering and How Many positions have to be filled. This Analysis will help the company to prepare for the up comming chalges of the "Silver Tsunami".
+
+Information is available in different .csv tables and with thjis information we are halping him to obtain the needed analysis.
+
+## Results:
+--
+
+*PH data base has 300,024 employees
+*72,458 employees are still working in PH and elegible to retire
+*We have 7 kinds of titles 
+
+![Kinds](/US_TSUBCAT.png)
+
+*For this reason Mentoring Program has to be implemented, in order to full fill avalibale positions left by retirees
+
+*Only 1,549 have been identified to the program
+
+![Kinds](/US_TSUBCAT.png)
+
+### Summary:
+
+
