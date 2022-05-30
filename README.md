@@ -40,7 +40,7 @@ To understand information of retrees by department and an aditional one to know 
 
 1.
 
-![Pos Dep](/[/Images/position_per_department.png)
+![Pos Dep](/Images/position_per_department.png)
 
 2.
 
