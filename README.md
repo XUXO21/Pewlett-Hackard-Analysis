@@ -40,7 +40,7 @@ To understand information of retrees by department and an aditional one to know 
 
 1.
 
-![Ment](/Images/Mentorship%20Program.png))
+![Ment](/[/Images/position_per_department.png)))
 
 2.
 
